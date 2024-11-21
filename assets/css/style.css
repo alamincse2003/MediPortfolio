@@ -2007,6 +2007,10 @@ Service Area
 }
 .services-article .services-article-img {
   margin-bottom: 30px;
+
+}
+.services-article .services-article-img img{
+    width: 100%;
 }
 .services-article .services-content p {
   margin-bottom: 30px;
